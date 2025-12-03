@@ -9,7 +9,7 @@ Burger jpg is from [pexels.com.](https://www.pexels.com/photo/fries-and-burger-o
 Giphy
 cat-chef is from [giphy.com.]https://giphy.com/gifs/eating-cooking-lunch-zJfFwrYmAz8G1Vg0Wq
 
-and Coook Wok was from [giphy.com.](https://giphy.com/search/cook-wok)
+and Cook Wok was from [giphy.com.](https://giphy.com/search/cook-wok)
 
 got my recipe from https://www.ihearteating.com/easiest-chocolate-chip-cookie-recipe/
 
@@ -23,7 +23,7 @@ Getting Started
 Dependencies
 
 Note: Inline CSS will be in the footer and flexbox used for nav.
-Had issue with dropdown and almost felt like using AI but then I found this to help me out https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_text. Also have my 2 animation in hoome page. One over the nav bar and the other will be on the Gifs and images.
+Had issue with dropdown and almost felt like using AI but then I found this to help me out https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_text. Also have my 2 animation in home page. One over the nav bar and the other will be on the Gifs and images.
 
 
 
