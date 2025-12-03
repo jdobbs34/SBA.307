@@ -51,6 +51,15 @@ nav {
   color: blue;
 }
 
+nav:hover {
+  background-color: tan;
+  transition-duration: 3s;
+}
+
+.dropdown-content:hover {
+  background-color: tan;
+  transition-duration: 3s;
+}
 
 .dropdown:hover .dropdown-content {
   display: flex;
@@ -65,7 +74,7 @@ nav {
   display: none;
   position: absolute;
   background-color: #8FC93A;
-  
+  text-align: center;
 }
 
 a {
@@ -94,6 +103,11 @@ p {
     justify-content: space-evenly;
     margin: 25px auto;
     flex-wrap: wrap;
+}
+
+.images :hover{
+  transform: scale(1.2);
+  transition-duration: 3s;
 }
 
 footer {

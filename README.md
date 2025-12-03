@@ -23,7 +23,7 @@ Getting Started
 Dependencies
 
 Note: Inline CSS will be in the footer and flexbox used for nav.
-Had issue with dropdown and almost felt like using AI but then I found this to help me out https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_text.
+Had issue with dropdown and almost felt like using AI but then I found this to help me out https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_text. Also have my 2 animation in hoome page. One over the nav bar and the other will be on the Gifs and images.
 
 
 
