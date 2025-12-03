@@ -27,7 +27,6 @@
 .main-container {
   height: 100%;
   width: 100%;
-  margin: auto;
   background-color: #fff8f0;
   flex-wrap: wrap;
   color: #666666;
@@ -52,6 +51,23 @@ nav {
   color: blue;
 }
 
+
+.dropdown:hover .dropdown-content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 30px;
+  height: 25px;
+  width: 100px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #8FC93A;
+  
+}
+
 a {
     text-decoration: none;
 }
@@ -63,14 +79,14 @@ ul {
 }
 
 .about {
-  margin: 25px auto;
+  margin: 15px auto;
 }
 
 h2,
 p {
-  margin: 25px 0 auto;
+  margin: 1px 0 auto;
   font-size: 1.5rem;
-  padding: 15px;
+  padding: 10px;
 }
 
 .images {
@@ -81,12 +97,10 @@ p {
 }
 
 footer {
-    background-color: #ce936e;
     height: 50px;
     text-align: center;
     font-size: 20px;
     margin: auto;
     padding: 25px;
     color: black;
-   
 }

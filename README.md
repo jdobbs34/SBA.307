@@ -22,7 +22,8 @@ In the nav bar there is a dropdown in recipes to pick a category for you recipe 
 Getting Started
 Dependencies
 
-
+Note: Inline CSS will be in the footer and flexbox used for nav.
+Had issue with dropdown and almost felt like using AI but then I found this to help me out https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_text.
 
 
 

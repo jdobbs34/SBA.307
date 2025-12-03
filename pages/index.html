@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Flavorscape</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="/styles/styles.css" />
   </head>
   <body>
     <main class="main-container">
@@ -19,16 +19,12 @@
       </header>
       <nav>
         <ul>
-          <li class="home"><a href="index.html" target="_blank">Home</a></li>
-          
-          <li class="recipes-page">Recipes
-           <select class="dropdown">
-            <a href="../pages/desserts.html">Desserts</a>
-            <a href="../pages/main.html">Main Courses</a>
-            <a href="../pages/appetizers.html">Appetizers</a>
-            </select></li>
-
-          <li class="contact-page"><a href="../pages/contact.html" target="_blank">Contact Page</a></li>
+          <li class="home"><a href="/pages/index.html">Home</a></li>
+          <div class="dropdown">
+            <li class="recipes-page">Recipes</li>
+            <div class="dropdown-content"><a href="/pages/desserts.html">Desserts</a></div>
+          </div>
+          <li class="contact-page"><a href="../pages/contact.html">Contact Page</a></li>
         </ul>
       </nav>
       <div class="about">
@@ -50,12 +46,12 @@
         <div class="images">
           <img src="/images/cat-chef.gif" alt="Cat playing with spaghetti" />
           <img
-            src="images/burger.jpg"
+            src="/images/burger.jpg"
             alt="Plate of burger and frys"
             width="580"
             height="480"
           />
-          <img src="images/Cook Wok GIF.gif" alt="Chef cooking with wok" />
+          <img src="/images/Cook Wok GIF.gif" alt="Chef cooking with wok" />
         </div>
 
         <h2>The purpose of this site</h2>
@@ -71,9 +67,7 @@
           minima!
         </p>
       </div>
-      <footer>@ &copy; 2025 Your Company Name. All rights reserved.</footer>
-      
-       
+      <footer style="background-color: #ce936e;">@ &copy; 2025 Your Company Name. All rights reserved.</footer>
     </main>
   </body>
 </html>
