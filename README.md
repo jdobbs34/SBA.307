@@ -1,20 +1,20 @@
-** My Favorite Recipes – A Simple Culinary Site
+# My Favorite Recipes – A Simple Culinary Site
 
-HTML
-CSS
+## Languages 
+HTML, CSS
 
-Pexels
+## Pexels 
 Burger jpg is from [pexels.com.](https://www.pexels.com/photo/fries-and-burger-on-plate-70497/)
 
-Giphy
-cat-chef is from [giphy.com.]https://giphy.com/gifs/eating-cooking-lunch-zJfFwrYmAz8G1Vg0Wq
+## Giphy -
+Cat-chef is from [giphy.com.]https://giphy.com/gifs/eating-cooking-lunch-zJfFwrYmAz8G1Vg0Wq
 
-and Cook Wok was from [giphy.com.](https://giphy.com/search/cook-wok)
+Cook Wok was from [giphy.com.]https://giphy.com/gifs/meme-cook-cookin-M6bJf9VBmrN1qTtPyL
 
-got my recipe from https://www.ihearteating.com/easiest-chocolate-chip-cookie-recipe/
+## Recipes Site 
+Got my recipe from https://www.ihearteating.com/easiest-chocolate-chip-cookie-recipe/
 
-RRecipes Site
-
+## About
 Website is about food and cooking made of 3 pages. The home page talks about why creator enjoys cooking then presents some funny gifs and pictures. Then he speak about the purpose of his page which is to create a community of people sharing their recipes.
 
 
