@@ -6,7 +6,7 @@ HTML, CSS
 ## Pexels 
 Burger jpg is from [pexels.com.](https://www.pexels.com/photo/fries-and-burger-on-plate-70497/)
 
-## Giphy -
+## Giphy
 Cat-chef is from [giphy.com.]https://giphy.com/gifs/eating-cooking-lunch-zJfFwrYmAz8G1Vg0Wq
 
 Cook Wok was from [giphy.com.]https://giphy.com/gifs/meme-cook-cookin-M6bJf9VBmrN1qTtPyL
